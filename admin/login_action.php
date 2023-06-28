@@ -17,7 +17,7 @@ else
 	
 	$ini_array = parse_ini_file("../config.php",true);
 	
-	$admin_password_salt="admin";
+	$admin_password_salt="D58X1W";
 
 	if
 	(
