@@ -2,7 +2,7 @@
 
 [login]
 admin_user = "admin"
-admin_password = ""
+admin_password = "jesus"
 
 [website]
 seo_urls = "0"
