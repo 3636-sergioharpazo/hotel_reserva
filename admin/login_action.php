@@ -15,7 +15,7 @@ if(!isset($_POST["username"]) || !isset($_POST["password"]) || trim($_POST["user
 else
 {
 	
-	$ini_array = parse_ini_file("..\config.php",true);
+	$ini_array = parse_ini_file("../config.php",true);
 	
 	$admin_password_salt="admin";
 
